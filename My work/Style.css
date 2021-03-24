@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: monospace;
+    color: darkslategrey;
+    font-weight: bold;
+}
+#apps{
+    width: 100%;
+    height: 800px;
+    background-color: darkgray;
+}
+
+#Games{
+    width: 100%;
+    height: 800px;
+    background-color: floralwhite;
+}
+#Chatbot{
+    width: 100%;
+    height: 800px;
+    background-color: cadetblue;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+img:hover{
+    height:180px;
+    width:180px;
+}
+.line{
+    height: 6px;
+    width:70px;
+    background-color: darkblue;
+   margin: 8px auto;     
+}
